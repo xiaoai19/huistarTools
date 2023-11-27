@@ -1,5 +1,5 @@
 # huistarapps
-## 项目在线地址：https://www.xn--ittq67j.top:8099/
+## 项目在线预览地址：https://www.xn--ittq67j.top:8099/
 
 ## Project setup
 ```
