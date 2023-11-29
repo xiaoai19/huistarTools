@@ -4,17 +4,17 @@
 # 项目介绍
 此项目是一个小工具合集网站(类似于QQ帮小忙工具箱)，用于解决在工作中遇到的一些小问题。使用了Vue、ElementUI、axios、express等技术开发；还在持续更新中。
 
-## Project setup
+## 安装项目
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
